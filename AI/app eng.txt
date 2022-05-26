@@ -1,0 +1,5 @@
+1)curl https://sdk.cloud.google.com | bash
+2)gcloud init
+3)git clone https://github.com/GoogleCloudPlatform/python-docs-samples  => use when it needed
+4)cd python-docs-samples/appengine/standard/hello_world
+5)dev_appserver.py app.yaml
